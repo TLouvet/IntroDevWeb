@@ -10,7 +10,7 @@ La maquette est proposée gratuitement pour l'apprentissage, je l'ai trouvée su
 
 <h2>Récupérer le projet</h2>
 
-<p>Deux solutions s'offrent à vous. Vous pouvez récupérer ce dépôt sous forme de .zip. Pour cela, cliquez sur le bouton Code et choisissez "Download ZIP". Faites ensuite une extraction du dossier où vous souhaitez. Deuxième option, vous pouvez clôner le projet. Pour cela, après avoir installé Git, placez vous dans le dossier où vous souhaitez cloner ce dépôt et lancez la commande suivante: <code>git clone https://github.com/TLouvet/IntroDevWeb</code> </p>
+<p>Deux solutions s'offrent à vous. Vous pouvez récupérer ce dépôt sous forme de .zip. Pour cela, cliquez sur le bouton Code et choisissez "Download ZIP". Faites ensuite une extraction du dossier où vous souhaitez. Deuxième option, vous pouvez clôner le projet. Pour cela, après avoir installé Git, placez vous dans le dossier où vous souhaitez cloner ce dépôt et lancez la commande suivante: <code>git clone https://github.com/TLouvet/IntroDevWeb.git</code> </p>
 
 <p>Si avez un doute sur la réalisation du clônage, le premier live explique la mise en place du projet</p>
 
