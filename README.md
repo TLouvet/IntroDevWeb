@@ -1,5 +1,17 @@
 <h1> Projet d'intégration d'une maquette </h1>
 
+<h2>Sommaire</h2>
+<nav>
+<ol>
+<li><a href="#maquette">Maquette</a></li>
+<li><a href="#getproject">Récupérer le projet</a></li>
+<li><a href="#goals">Objectifs</a></li>
+<li><a href="#lives">Lives et Progression</a></li>
+<li><a href="#redif">Rediffusions</a></li>
+<li><a href="#ressources">Ressources</a></li>
+</ol>
+
+<h2 id="maquette"> Maquette </h2>
 La maquette est proposée gratuitement pour l'apprentissage, je l'ai trouvée sur la page suivante, qui propose plusieurs maquettes pour s'entraîner.
 
 <a href="https://dev.to/emmanx/free-figma-ui-designs-for-frontend-practice-3ak2">Page dev.to</a>
@@ -8,13 +20,13 @@ La maquette est proposée gratuitement pour l'apprentissage, je l'ai trouvée su
 
 <p>Si le lien venait à disparaitre, le fichier Page_new.png correspond à la maquette sur laquelle ce repo se base.</p>
 
-<h2>Récupérer le projet</h2>
+<h2 id="getproject">Récupérer le projet</h2>
 
 <p>Deux solutions s'offrent à vous. Vous pouvez récupérer ce dépôt sous forme de .zip. Pour cela, cliquez sur le bouton Code et choisissez "Download ZIP". Faites ensuite une extraction du dossier où vous souhaitez. Deuxième option, vous pouvez clôner le projet. Pour cela, après avoir installé Git (cf. <a href="#ressources"> ressources </a>), placez vous dans le dossier où vous souhaitez cloner ce dépôt et lancez la commande suivante: <code>git clone https://github.com/TLouvet/IntroDevWeb.git</code> </p>
 
 <p>Si avez un doute sur la réalisation du clônage, le premier live explique la mise en place du projet</p>
 
-<h2>Objectifs</h2>
+<h2 id="goals">Objectifs</h2>
 
 <p> Ce projet à pour but d'aider les débutants à se familiariser avec les bases du développement web. Le code est accompagné de sessions en live où je montre comment je m'organise lorsqu'il s'agit de développer un site web.</p>
 
