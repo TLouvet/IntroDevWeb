@@ -8,6 +8,12 @@ La maquette est proposée gratuitement pour l'apprentissage, je l'ai trouvée su
 
 <p>Si le lien venait à disparaitre, le fichier Page_new.png correspond à la maquette sur laquelle ce repo se base.</p>
 
+<h2>Récupérer le projet</h2>
+
+<p>Deux solutions s'offrent à vous. Vous pouvez récupérer ce dépôt sous forme de .zip. Pour cela, cliquez sur le bouton Code et choisissez "Download ZIP". Faites ensuite une extraction du dossier où vous souhaitez. Deuxième option, vous pouvez clôner le projet. Pour cela, après avoir installé Git, placez vous dans le dossier où vous souhaitez cloner ce dépôt et lancez la commande suivante: <code>git clone https://github.com/TLouvet/IntroDevWeb</code> </p>
+
+<p>Si avez un doute sur la réalisation du clônage, le premier live explique la mise en place du projet</p>
+
 <h2>Objectifs</h2>
 
 <p> Ce projet à pour but d'aider les débutants à se familiariser avec les bases du développement web. Le code est accompagné de sessions en live où je montre comment je m'organise lorsqu'il s'agit de développer un site web.</p>
