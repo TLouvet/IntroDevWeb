@@ -42,5 +42,5 @@ Les rediffusions devraient être disponibles sur ma chaine Youtube : <a href="ht
 
 <ul>
 <li>Installer Git: <a href="https://git-scm.com/downloads">Ici</a></li>
-<li>Installer VS Code: <a href="https://code.visualstudio.com/"</a></li>
+<li>Installer VS Code: <a href="https://code.visualstudio.com/">Ici</a></li>
 </ul>
