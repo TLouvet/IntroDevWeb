@@ -10,7 +10,7 @@ La maquette est proposée gratuitement pour l'apprentissage, je l'ai trouvée su
 
 <h2>Récupérer le projet</h2>
 
-<p>Deux solutions s'offrent à vous. Vous pouvez récupérer ce dépôt sous forme de .zip. Pour cela, cliquez sur le bouton Code et choisissez "Download ZIP". Faites ensuite une extraction du dossier où vous souhaitez. Deuxième option, vous pouvez clôner le projet. Pour cela, après avoir installé Git (cf. section ressources => outils), placez vous dans le dossier où vous souhaitez cloner ce dépôt et lancez la commande suivante: <code>git clone https://github.com/TLouvet/IntroDevWeb.git</code> </p>
+<p>Deux solutions s'offrent à vous. Vous pouvez récupérer ce dépôt sous forme de .zip. Pour cela, cliquez sur le bouton Code et choisissez "Download ZIP". Faites ensuite une extraction du dossier où vous souhaitez. Deuxième option, vous pouvez clôner le projet. Pour cela, après avoir installé Git (cf. <a href="#ressources"> ressources </a>), placez vous dans le dossier où vous souhaitez cloner ce dépôt et lancez la commande suivante: <code>git clone https://github.com/TLouvet/IntroDevWeb.git</code> </p>
 
 <p>Si avez un doute sur la réalisation du clônage, le premier live explique la mise en place du projet</p>
 
@@ -23,7 +23,7 @@ La maquette est proposée gratuitement pour l'apprentissage, je l'ai trouvée su
 
 <p> Dans des sessions ultérieures, nous aborderons, toujours avec la même maquette, comment rendre le design responsive. Nous verrons également comment mieux organiser le CSS avec Sass et gérer du contenu normalement dynamique avec Javascript </p>
 
-<h2>Lives et Progression</h2>
+<h2 id="lives">Lives et Progression</h2>
 
 Adresse des live à définir => YT ou twitch
 
@@ -36,11 +36,11 @@ Pour commencer le projet de 0, prendre la branche dev comme point de départ, le
 <li> 14/05/2022 - 14h - Découpage et intégration de la maquette </li>
 </ul>
 
-<h2>Rediffusions</h2>
+<h2 id="redif">Rediffusions</h2>
 
 Les rediffusions devraient être disponibles sur ma chaine Youtube : <a href="https://www.youtube.com/user/louvethomas/videos">Ici </a>
 
-<h2> Ressources </h2>
+<h2 id="ressources"> Ressources </h2>
 
 <p>Vous trouverez ci-dessous une liste de ressources qui vous permettront d'apprendre le développement web. Cette liste sera enrichie au fur et à mesure de notre avancée </p>
 
