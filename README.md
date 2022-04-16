@@ -17,7 +17,6 @@ La maquette est proposée gratuitement pour l'apprentissage, je l'ai trouvée su
 
 <p> Dans des sessions ultérieures, nous aborderons, toujours avec la même maquette, comment rendre le design responsive. Nous verrons également comment mieux organiser le CSS avec Sass et gérer du contenu normalement dynamique avec Javascript </p>
 
-
 <h2>Lives et Progression</h2>
 
 Adresse des live à définir => YT ou twitch
@@ -35,3 +34,13 @@ Pour commencer le projet de 0, prendre la branche dev comme point de départ, le
 
 Les rediffusions devraient être disponibles sur ma chaine Youtube : <a href="https://www.youtube.com/user/louvethomas/videos">Ici </a>
 
+<h2> Ressources </h2>
+
+<p>Vous trouverez ci-dessous une liste de ressources qui vous permettront d'apprendre le développement web. Cette liste sera enrichie au fur et à mesure de notre avancée </p>
+
+<h3> Live 1 </h3>
+
+<ul>
+<li>Installer Git: <a href="https://git-scm.com/downloads">Ici</a></li>
+<li>Installer VS Code: <a href="https://code.visualstudio.com/"</a></li>
+</ul>
