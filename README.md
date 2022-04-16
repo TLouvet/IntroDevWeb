@@ -25,6 +25,8 @@ Adresse des live à définir => YT ou twitch
 <p>La progression de chaque live sera sauvegardée sur une branche différente. Ainsi, il est possible de récupérer la branche du live précédent pour commencer le live qui suit (exemple: prendre la branche live1 pour suivre le live2). 
 Pour commencer le projet de 0, prendre la branche dev comme point de départ, le code ne sera pas mis à jour sur cette branche </p>
 
+<p>Un fichier de readme spécifique à chaque branche sera mis en ligne afin de résumer les grands points abordés lors de chaque live</p>
+
 <ul>
 <li> 14/05/2022 - 14h - Découpage et intégration de la maquette </li>
 </ul>
