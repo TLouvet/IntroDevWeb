@@ -37,7 +37,7 @@ La maquette est proposée gratuitement pour l'apprentissage, je l'ai trouvée su
 
 <h2 id="lives">Lives et Progression</h2>
 
-Adresse des live à définir => YT ou twitch
+Où retrouver les lives et vidéos : <a href="https://www.youtube.com/user/louvethomas/videos">Ma chaîne Youtube</a>
 
 <p>La progression de chaque live sera sauvegardée sur une branche différente. Ainsi, il est possible de récupérer la branche du live précédent pour commencer le live qui suit (exemple: prendre la branche live1 pour suivre le live2). 
 Pour commencer le projet de 0, prendre la branche dev comme point de départ, le code ne sera pas mis à jour sur cette branche </p>
@@ -64,4 +64,15 @@ Les rediffusions devraient être disponibles sur ma chaine Youtube : <a href="ht
 </ul>
 
 <h3> Live 1 </h3>
+
+<ul>
+<li> Lien de la rediffusion: <a href="https://www.youtube.com/watch?v=Yh8t7b7JEJc&t=36s&ab_channel=louvethomas">Youtube </a> </li>
+<li> HTML et CSS sur OpenClassrooms : <a href="https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3"> Ici </a> </li>
+<li> Entraînement à la maîtrise des flexbox : <a href="https://flexboxfroggy.com/#fr">Flexbox Froggy</a> </li>
+<li> Découper une maquette: <a href="https://openclassrooms.com/fr/courses/3504431-decoupez-et-integrez-une-maquette"> Cours OpenClassrooms </a> </li>
+<li> Inventaire des balises HTML: <a href="https://www.w3schools.com/TAgs/default.asp"> W3 School </a> </li>
+<li> Validateur W3C: <a href="https://validator.w3.org/"> W3C validator </a> </li>
+<li> Prise en main Git et Github: <a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github"> Cours OpenClassrooms </a> </li>
+<li> Tutos Grafikart: <a href="https://grafikart.fr/"> Grafikart </a> </li>
+</ul>
 
